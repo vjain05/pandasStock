@@ -1,0 +1,15 @@
+companies
+ebay
+csco
+fb
+ibm
+intc
+amzn
+aapl
+yhoo
+msft
+goog
+orcl
+crm
+hpq
+emc
